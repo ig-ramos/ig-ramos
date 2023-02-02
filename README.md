@@ -3,10 +3,8 @@
 ##
 
 - 🔭 Estou na busca do meu primeiro estágo na área de TI
-- 🌱 Eu estou estudando sobre Desenvolvimento Web Front-End
-- 🤔 Planejo me tornar nômade digital 
+- 🌱 Eu estou estudando sobre Desenvolvimento Web Front-End 
 - 📫 Contato via Whatsapp - (91) 99365-0972
-- 😄 Pronouns: ele/dele
 
 ##
 
