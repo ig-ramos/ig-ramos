@@ -2,12 +2,6 @@
 
 ##
 
-- 🔭 Estou na busca do meu primeiro estágo na área de TI
-- 🌱 Eu estou estudando sobre Desenvolvimento Web Front-End 
-- 📫 Contato via Whatsapp - (91) 99365-0972
-
-##
-
 <div align="center">
   <a href="https://github.com/ig-ramos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ig-ramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
